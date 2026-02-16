@@ -1,0 +1,19 @@
+# Ignore dataset and large binaries
+Dataset/
+models/*.h5
+recordings/
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual env
+venv/
+env/
+
+# IDE
+.vscode/
+
+# OS
+.DS_Store
